@@ -1,4 +1,3 @@
-cat > run.py <<'PY'
 import fb_reg
 
 if __name__ == "__main__":
